@@ -12,3 +12,5 @@ Simple script to idle time on steam games without any additional costs.
 - Install latest version of NodeJS from official website.
 - Open the `config.json` and fill all required fields.
 - Then just run `node bot.js` to launch the script.
+
+For a complete guide visit: <a href="https://weblinq.eu/boost-steam-gaming-hours-with-hourbooster-linux-ubuntu/" target="_blank"> Complete Guide Linux/Ubuntu Install </a> 
